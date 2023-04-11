@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/project1-bootcamp/static/css/main.4641ed85.css",
+    "main.js": "/project1-bootcamp/static/js/main.054baf40.js",
+    "static/media/Tanker-Regular.ttf": "/project1-bootcamp/static/media/Tanker-Regular.3c48298c2426e9a3ff33.ttf",
+    "static/media/Tanker-Regular.woff": "/project1-bootcamp/static/media/Tanker-Regular.492dc6bab0b7270bde17.woff",
+    "static/media/Tanker-Regular.woff2": "/project1-bootcamp/static/media/Tanker-Regular.40ea02f143d002476c18.woff2",
+    "index.html": "/project1-bootcamp/index.html",
+    "main.4641ed85.css.map": "/project1-bootcamp/static/css/main.4641ed85.css.map",
+    "main.054baf40.js.map": "/project1-bootcamp/static/js/main.054baf40.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4641ed85.css",
+    "static/js/main.054baf40.js"
+  ]
+}
